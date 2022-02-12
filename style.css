@@ -21,6 +21,7 @@ body{
   background-image:  url(foto/ole.JPG);
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
   /*text-shadow: 3px 3px   #000000;*/
   /*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 
